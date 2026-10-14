@@ -1,0 +1,567 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-14T14:27:47+00:00",
+  "title": "Design System: Olímpicas Sport",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "Índigo lavado",
+        "canonical": "#29466b",
+        "tonalRamp": [
+          "#000828",
+          "#082547",
+          "#264368",
+          "#45638a",
+          "#6584ad",
+          "#87a8d2",
+          "#aaccf8",
+          "#e5f0fe"
+        ]
+      },
+      "indigo": {
+        "role": "secondary",
+        "displayName": "Índigo de dril",
+        "canonical": "#2f4e73",
+        "tonalRamp": [
+          "#000926",
+          "#062547",
+          "#254368",
+          "#43638a",
+          "#6485ad",
+          "#86a8d2",
+          "#a9ccf8",
+          "#e4f0fe"
+        ]
+      },
+      "indigo-deep": {
+        "role": "secondary",
+        "displayName": "Índigo hondo de sarga",
+        "canonical": "#1e3554",
+        "tonalRamp": [
+          "#000925",
+          "#0f2543",
+          "#2b4363",
+          "#4a6385",
+          "#6a84a8",
+          "#8ca7cd",
+          "#afcbf2",
+          "#e5f0fe"
+        ]
+      },
+      "chambray": {
+        "role": "secondary",
+        "displayName": "Chambray",
+        "canonical": "#a7b8c7",
+        "tonalRamp": [
+          "#020c16",
+          "#192732",
+          "#354450",
+          "#546371",
+          "#748593",
+          "#97a7b6",
+          "#baccdb",
+          "#e2f1fe"
+        ]
+      },
+      "chambray-light": {
+        "role": "secondary",
+        "displayName": "Chambray claro",
+        "canonical": "#bccad6",
+        "tonalRamp": [
+          "#040c14",
+          "#1c262f",
+          "#38444d",
+          "#57636d",
+          "#77848f",
+          "#99a7b3",
+          "#bdcbd7",
+          "#e2f1fd"
+        ]
+      },
+      "linen": {
+        "role": "neutral",
+        "displayName": "Crudo / lino",
+        "canonical": "#eee8dc",
+        "tonalRamp": [
+          "#0f0b04",
+          "#29241c",
+          "#464138",
+          "#666156",
+          "#878277",
+          "#aaa499",
+          "#cec8bd",
+          "#f4eee2"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel",
+        "canonical": "#fbfaf6",
+        "tonalRamp": [
+          "#0c0b09",
+          "#262522",
+          "#43423f",
+          "#62615e",
+          "#83827f",
+          "#a6a5a1",
+          "#cac9c5",
+          "#efeeea"
+        ]
+      },
+      "black": {
+        "role": "neutral",
+        "displayName": "Negro funeral",
+        "canonical": "#1b1b1d",
+        "tonalRamp": [
+          "#0b0b0d",
+          "#252527",
+          "#424244",
+          "#616163",
+          "#828284",
+          "#a5a5a7",
+          "#c9c9cb",
+          "#eeeef1"
+        ]
+      },
+      "red": {
+        "role": "primary",
+        "displayName": "Rojo hilo de logotipo",
+        "canonical": "#d62828",
+        "tonalRamp": [
+          "#210000",
+          "#4d0103",
+          "#7f070c",
+          "#b51319",
+          "#e43935",
+          "#fa776c",
+          "#ffb3a9",
+          "#fee9e6"
+        ]
+      },
+      "red-patch": {
+        "role": "primary",
+        "displayName": "Rojo parche",
+        "canonical": "#c42222",
+        "tonalRamp": [
+          "#220000",
+          "#4e0002",
+          "#800209",
+          "#b70b15",
+          "#e0413a",
+          "#fc766a",
+          "#fcb4ab",
+          "#ffe9e6"
+        ]
+      },
+      "yellow": {
+        "role": "tertiary",
+        "displayName": "Amarillo de logotipo",
+        "canonical": "#ffd400",
+        "tonalRamp": [
+          "#110a00",
+          "#2e2400",
+          "#504100",
+          "#745f01",
+          "#9a8014",
+          "#c2a21e",
+          "#edc61e",
+          "#feefb8"
+        ]
+      },
+      "stripe-a": {
+        "role": "tertiary",
+        "displayName": "Raya clara de camisería",
+        "canonical": "#e7e3d6",
+        "tonalRamp": [
+          "#0e0b04",
+          "#28251b",
+          "#454237",
+          "#656156",
+          "#868276",
+          "#a9a599",
+          "#cdc9bc",
+          "#f2eee1"
+        ]
+      },
+      "stripe-b": {
+        "role": "tertiary",
+        "displayName": "Raya media de camisería",
+        "canonical": "#7d93ad",
+        "tonalRamp": [
+          "#000b1e",
+          "#14263b",
+          "#30445a",
+          "#4e637b",
+          "#6f849e",
+          "#91a7c2",
+          "#b4cce7",
+          "#e4f0ff"
+        ]
+      },
+      "stripe-c": {
+        "role": "tertiary",
+        "displayName": "Raya oscura de camisería",
+        "canonical": "#495f74",
+        "tonalRamp": [
+          "#000c1c",
+          "#132739",
+          "#2f4458",
+          "#4e6479",
+          "#6e859b",
+          "#90a8bf",
+          "#b4cce5",
+          "#e2f0fe"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "canonical": "#1f1a17",
+        "tonalRamp": [
+          "#0f0a08",
+          "#292421",
+          "#46413d",
+          "#66605c",
+          "#87817d",
+          "#aaa39f",
+          "#cfc7c3",
+          "#f4ede9"
+        ]
+      },
+      "ink-indigo": {
+        "role": "neutral",
+        "displayName": "Tinta índigo",
+        "canonical": "#14243a",
+        "tonalRamp": [
+          "#010b1e",
+          "#15263c",
+          "#32435b",
+          "#50627c",
+          "#70849f",
+          "#92a7c3",
+          "#b6cbe8",
+          "#e4f0ff"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Tinta suave",
+        "canonical": "#4a4039",
+        "tonalRamp": [
+          "#110905",
+          "#2c231d",
+          "#4a4039",
+          "#6a5f57",
+          "#8b8078",
+          "#aea29a",
+          "#d3c6be",
+          "#f8ece3"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "Crudo sobre oscuro",
+        "canonical": "#eee8dc",
+        "tonalRamp": [
+          "#0f0b04",
+          "#29241c",
+          "#464138",
+          "#666156",
+          "#878277",
+          "#aaa499",
+          "#cec8bd",
+          "#f4eee2"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "Azul niebla sobre oscuro",
+        "canonical": "#cbd6e2",
+        "tonalRamp": [
+          "#050c13",
+          "#1e262f",
+          "#3a434d",
+          "#59626d",
+          "#79848e",
+          "#9ca6b2",
+          "#c0cad6",
+          "#e5f0fc"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Solo el titular del hero, en mayúsculas de bloque."
+      },
+      "headline": {
+        "displayName": "Título de sección",
+        "purpose": "Títulos de sección en mayúsculas."
+      },
+      "title": {
+        "displayName": "Título de pieza",
+        "purpose": "Títulos de pieza: soluciones, sectores, diferenciadores, pasos."
+      },
+      "lead": {
+        "displayName": "Entradilla",
+        "purpose": "Párrafo de entrada bajo titulares."
+      },
+      "body": {
+        "displayName": "Lectura",
+        "purpose": "Párrafos de lectura, máximo 62ch."
+      },
+      "body-small": {
+        "displayName": "Lectura pequeña",
+        "purpose": "Texto dentro de piezas pequeñas, contacto y pie."
+      },
+      "label": {
+        "displayName": "Etiqueta",
+        "purpose": "Botones, pestañas, etiquetas cosidas y tejidas, rótulos; mayúsculas con interletraje abierto."
+      }
+    },
+    "stitch": [
+      {
+        "name": "stitch-color",
+        "value": "var(--red)",
+        "purpose": "Color del pespunte; crudo sobre la pieza roja y las fotos; color del texto al 70% en botones."
+      },
+      {
+        "name": "stitch-width",
+        "value": "2px",
+        "purpose": "Grosor del pespunte de pieza (1.5px en botones)."
+      },
+      {
+        "name": "stitch-dash",
+        "value": "9px / 15px",
+        "purpose": "Puntada y periodo del pespunte de pieza (7px / 12px en botones)."
+      },
+      {
+        "name": "seam-inset",
+        "value": "9px",
+        "purpose": "Retranqueo del pespunte desde el canto (5px en botones, 8px en muestras)."
+      },
+      {
+        "name": "sew",
+        "value": "@property --sew <number> 0..4, inicial 4",
+        "purpose": "Avance del pespunte; cada unidad dibuja un tramo (arriba, derecha, abajo, izquierda)."
+      }
+    ],
+    "shadows": [
+      {
+        "name": "patch",
+        "value": "0 1px 1px rgb(8 14 26 / 0.28), 0 12px 24px -16px rgb(8 14 26 / 0.7)",
+        "purpose": "Toda pieza de tela y la foto del EPP."
+      },
+      {
+        "name": "settle-from",
+        "value": "0 1px 1px rgb(8 14 26 / 0.1), 0 4px 10px -8px rgb(8 14 26 / 0.3)",
+        "purpose": "Inicio del asiento de la pieza al coserse."
+      },
+      {
+        "name": "button",
+        "value": "0 1px 1px rgb(0 0 0 / 0.3), 0 8px 16px -10px rgb(0 0 0 / 0.6)",
+        "purpose": "Botón en reposo."
+      },
+      {
+        "name": "button-hover",
+        "value": "0 2px 2px rgb(0 0 0 / 0.25), 0 14px 22px -12px rgb(0 0 0 / 0.6)",
+        "purpose": "Botón levantado al pasar."
+      },
+      {
+        "name": "cloth-label",
+        "value": "0 1px 2px rgb(0 0 0 / 0.35)",
+        "purpose": "Etiquetas cosidas sobre fotos."
+      },
+      {
+        "name": "hang-tag",
+        "value": "drop-shadow(0 10px 16px rgb(8 14 26 / 0.35))",
+        "purpose": "Solo la etiqueta de suministro del EPP (filter)."
+      },
+      {
+        "name": "focus-ring",
+        "value": "outline: 3px solid #ffd400; outline-offset: 3px; box-shadow: 0 0 0 6px #14243a",
+        "purpose": "Foco visible en todo elemento interactivo."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Transiciones de estado: botones (180ms), flechas (200ms), zoom de foto (900ms), asiento (700ms)."
+      },
+      {
+        "name": "sew",
+        "value": "1.5s cubic-bezier(0.45, 0.05, 0.25, 1)",
+        "purpose": "«Se cose al llegar»: el pespunte se dibuja al entrar la pieza (umbral 0.15, margen −12%)."
+      },
+      {
+        "name": "sew-thread",
+        "value": "2.4s cubic-bezier(0.45, 0.05, 0.25, 1)",
+        "purpose": "El hilo del proceso que une los pasos."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Sin animación: el pespunte queda completo y estático; sin desplazamiento suave."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "40em"
+      },
+      {
+        "name": "md",
+        "value": "48em"
+      },
+      {
+        "name": "lg",
+        "value": "64em"
+      },
+      {
+        "name": "xl",
+        "value": "72em"
+      },
+      {
+        "name": "2xl",
+        "value": "80em"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botón principal (parche rojo)",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Acción de cotización: parche rojo con pespunte; se levanta al pasar y se hunde e invierte al presionar.",
+      "html": "<a class=\"ds-btn ds-btn-red\" href=\"#\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3.5 20.5l1.2-4.2A8.5 8.5 0 1 1 8 19.6z\"/></svg><span>Solicitar cotización</span></a>",
+      "css": ".ds-btn { --sc: rgb(255 255 255 / 0.7); --dash: 7px; --period: 12px; --stitch-w: 1.5px; position: relative; display: inline-flex; align-items: center; gap: 0.6em; min-height: 3.25rem; padding: 0.85rem 1.45rem 0.8rem; border: 0; border-radius: 0; cursor: pointer; font: 600 1.0625rem/1.05 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; box-shadow: 0 1px 1px rgb(0 0 0 / 0.3), 0 8px 16px -10px rgb(0 0 0 / 0.6); transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 180ms cubic-bezier(0.16, 1, 0.3, 1), background-color 180ms; } .ds-btn::after { content: \"\"; position: absolute; inset: 5px; pointer-events: none; background: repeating-linear-gradient(90deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left top / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(180deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right top / var(--stitch-w) 100% no-repeat, repeating-linear-gradient(270deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right bottom / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(0deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left bottom / var(--stitch-w) 100% no-repeat; } .ds-btn:hover { transform: translateY(-2px); box-shadow: 0 2px 2px rgb(0 0 0 / 0.25), 0 14px 22px -12px rgb(0 0 0 / 0.6); } .ds-btn:focus-visible { outline: 3px solid #ffd400; outline-offset: 3px; box-shadow: 0 0 0 6px #14243a; } .ds-btn:active { transform: translateY(1px); box-shadow: none; } .ds-btn-red { background-color: #d62828; color: #fff; } .ds-btn-red:active { background-color: #fbfaf6; color: #d62828; } .ds-btn-red:active::after { --sc: #d62828; }"
+    },
+    {
+      "name": "Botón secundario (parche crudo)",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Acción secundaria: parche de lino con pespunte rojo y flecha que avanza.",
+      "html": "<a class=\"ds-btn ds-btn-linen\" href=\"#\"><span>Conocer nuestras soluciones</span><svg class=\"ds-arrow\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a>",
+      "css": ".ds-btn { --sc: rgb(255 255 255 / 0.7); --dash: 7px; --period: 12px; --stitch-w: 1.5px; position: relative; display: inline-flex; align-items: center; gap: 0.6em; min-height: 3.25rem; padding: 0.85rem 1.45rem 0.8rem; border: 0; border-radius: 0; cursor: pointer; font: 600 1.0625rem/1.05 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; box-shadow: 0 1px 1px rgb(0 0 0 / 0.3), 0 8px 16px -10px rgb(0 0 0 / 0.6); transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 180ms cubic-bezier(0.16, 1, 0.3, 1), background-color 180ms; } .ds-btn::after { content: \"\"; position: absolute; inset: 5px; pointer-events: none; background: repeating-linear-gradient(90deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left top / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(180deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right top / var(--stitch-w) 100% no-repeat, repeating-linear-gradient(270deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right bottom / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(0deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left bottom / var(--stitch-w) 100% no-repeat; } .ds-btn:hover { transform: translateY(-2px); box-shadow: 0 2px 2px rgb(0 0 0 / 0.25), 0 14px 22px -12px rgb(0 0 0 / 0.6); } .ds-btn:focus-visible { outline: 3px solid #ffd400; outline-offset: 3px; box-shadow: 0 0 0 6px #14243a; } .ds-btn:active { transform: translateY(1px); box-shadow: none; } .ds-btn-linen { --sc: #d62828; background-color: #eee8dc; color: #14243a; } .ds-arrow { transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1); } .ds-btn-linen:hover .ds-arrow { transform: translateX(3px); } .ds-btn-linen:active { background-color: #14243a; color: #eee8dc; } .ds-btn-linen:active::after { --sc: #eee8dc; }"
+    },
+    {
+      "name": "Botón oscuro (parche negro)",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Cotización compacta de la cabecera: parche negro con pespunte rojo.",
+      "html": "<a class=\"ds-btn ds-btn-black\" href=\"#\"><span>Solicitar cotización</span></a>",
+      "css": ".ds-btn { --sc: rgb(255 255 255 / 0.7); --dash: 7px; --period: 12px; --stitch-w: 1.5px; position: relative; display: inline-flex; align-items: center; gap: 0.6em; min-height: 3.25rem; padding: 0.85rem 1.45rem 0.8rem; border: 0; border-radius: 0; cursor: pointer; font: 600 1.0625rem/1.05 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; box-shadow: 0 1px 1px rgb(0 0 0 / 0.3), 0 8px 16px -10px rgb(0 0 0 / 0.6); transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 180ms cubic-bezier(0.16, 1, 0.3, 1), background-color 180ms; } .ds-btn::after { content: \"\"; position: absolute; inset: 5px; pointer-events: none; background: repeating-linear-gradient(90deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left top / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(180deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right top / var(--stitch-w) 100% no-repeat, repeating-linear-gradient(270deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right bottom / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(0deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left bottom / var(--stitch-w) 100% no-repeat; } .ds-btn:hover { transform: translateY(-2px); box-shadow: 0 2px 2px rgb(0 0 0 / 0.25), 0 14px 22px -12px rgb(0 0 0 / 0.6); } .ds-btn:focus-visible { outline: 3px solid #ffd400; outline-offset: 3px; box-shadow: 0 0 0 6px #14243a; } .ds-btn:active { transform: translateY(1px); box-shadow: none; } .ds-btn-black { --sc: #d62828; min-height: 2.9rem; padding-inline: 1.1rem; background-color: #1b1b1d; color: #eee8dc; } .ds-btn-black:active { background-color: #eee8dc; color: #1b1b1d; } .ds-btn-black:active::after { --sc: #1b1b1d; }"
+    },
+    {
+      "name": "Pestañas cosidas",
+      "kind": "nav",
+      "refersTo": "nav-tab",
+      "description": "Navegación de escritorio: pestañas en condensada mayúscula; borde discontinuo rojo al pasar, retazo índigo con borde amarillo cuando está activa.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\" aria-current=\"true\">Inicio</a><a href=\"#\">Nosotros</a><a href=\"#\">Soluciones</a><a href=\"#\">Contacto</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 2px; padding: 0.5rem; background: #eee8dc; } .ds-nav a { display: block; padding: 0.7rem 1rem 0.62rem; font: 600 1rem/1 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; letter-spacing: 0.1em; text-decoration: none; color: #1f1a17; border: 1.5px dashed transparent; transition: border-color 160ms, background-color 160ms, color 160ms; } .ds-nav a:hover { border-color: #d62828; } .ds-nav a[aria-current=\"true\"] { color: #eee8dc; background: #2f4e73; border-color: #ffd400; } .ds-nav a:focus-visible { outline: 3px solid #ffd400; outline-offset: 3px; box-shadow: 0 0 0 6px #14243a; }"
+    },
+    {
+      "name": "Pieza de tela cosida",
+      "kind": "card",
+      "refersTo": "patch",
+      "description": "Unidad básica de la colcha: tela con textura, sombra corta y pespunte rojo interior a 9px del canto.",
+      "html": "<article class=\"ds-patch\"><h3>Línea industrial</h3><p>Dotación resistente para jornadas exigentes, confeccionada y personalizada en casa.</p></article>",
+      "css": ".ds-patch { position: relative; max-width: 22rem; padding: calc(9px + 1.6rem); background: #a7b8c7; color: #14243a; box-shadow: 0 1px 1px rgb(8 14 26 / 0.28), 0 12px 24px -16px rgb(8 14 26 / 0.7); font: 400 0.9375rem/1.5 Barlow, \"Segoe UI\", Roboto, sans-serif; } .ds-patch::after { content: \"\"; position: absolute; inset: 9px; pointer-events: none; --sc: #d62828; --dash: 9px; --period: 15px; --stitch-w: 2px; background: repeating-linear-gradient(90deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left top / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(180deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right top / var(--stitch-w) 100% no-repeat, repeating-linear-gradient(270deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) right bottom / 100% var(--stitch-w) no-repeat, repeating-linear-gradient(0deg, var(--sc) 0 var(--dash), transparent 0 var(--period)) left bottom / var(--stitch-w) 100% no-repeat; } .ds-patch h3 { margin: 0 0 0.6rem; font: 600 1.6rem/1.02 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; letter-spacing: 0.015em; } .ds-patch p { margin: 0; }"
+    },
+    {
+      "name": "Etiqueta cosida",
+      "kind": "chip",
+      "refersTo": "cloth-label",
+      "description": "Pie de foto como etiqueta de tela cosida: lino, borde discontinuo rojo y marco de lino.",
+      "html": "<span class=\"ds-cloth-label\">Nuestro equipo · Barrancabermeja</span>",
+      "css": ".ds-cloth-label { display: inline-block; margin: 6px; padding: 0.55em 0.95em 0.5em; background: #eee8dc; color: #1f1a17; font: 600 0.875rem/1.1 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; letter-spacing: 0.1em; border: 1px dashed #d62828; outline: 4px solid #eee8dc; box-shadow: 0 1px 2px rgb(0 0 0 / 0.35); }"
+    },
+    {
+      "name": "Etiquetas tejidas",
+      "kind": "chip",
+      "refersTo": "woven-label",
+      "description": "Servicios como etiquetas tejidas negras con puntada roja interior y extremos doblados.",
+      "html": "<ul class=\"ds-woven\"><li>Diseño</li><li>Bordado</li><li>Sublimación</li><li>DTF</li></ul>",
+      "css": ".ds-woven { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0; padding: 1rem; list-style: none; background: #2f4e73; } .ds-woven li { padding: 0.55rem 1.1rem 0.5rem; background: #1b1b1d; color: #eee8dc; font: 600 1rem/1 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; letter-spacing: 0.16em; outline: 1px dashed rgb(214 40 40 / 0.9); outline-offset: -4px; clip-path: polygon(0 0, 100% 0, calc(100% - 4px) 50%, 100% 100%, 0 100%, 4px 50%); box-shadow: 0 1px 1px rgb(0 0 0 / 0.4); }"
+    },
+    {
+      "name": "Muestra de tela con canto dentado",
+      "kind": "card",
+      "refersTo": "swatch",
+      "description": "Sector como muestra de tela: ícono de trazo, título sobre banda de lino y borde inferior cortado con tijera de picos.",
+      "html": "<div class=\"ds-swatch\"><svg width=\"38\" height=\"38\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 21h18M5 21V9l5 3V9l5 3V5h4v16\"/></svg><h3>Industria</h3><p>Dotación de trabajo para planta y campo.</p></div>",
+      "css": ".ds-swatch { position: relative; display: grid; grid-template-rows: 1fr auto auto; width: 15rem; min-height: 15rem; padding: calc(8px + 0.75rem) calc(8px + 0.5rem) 1.6rem; background: #1e3554; color: #eee8dc; -webkit-mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / 14px 100%; mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / 14px 100%; } .ds-swatch h3, .ds-swatch p { margin: 0; background: #eee8dc; } .ds-swatch h3 { padding: 0.75rem 0.8rem 0.25rem; color: #1f1a17; font: 600 1.3rem/1.02 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; } .ds-swatch p { padding: 0.2rem 0.8rem 0.85rem; color: #4a4039; font: 400 0.9375rem/1.4 Barlow, \"Segoe UI\", Roboto, sans-serif; }"
+    },
+    {
+      "name": "Etiqueta de suministro (EPP)",
+      "kind": "custom",
+      "refersTo": "supply-tag",
+      "description": "Lo suministrado no se cose: rótulo de cartón con chaflanes, ojal y leve giro, con las marcas como fichas.",
+      "html": "<div class=\"ds-tag\"><span class=\"ds-tag-hole\"></span><h3>Elementos de protección personal</h3><p>Comercializamos EPP de marcas reconocidas.</p><ul><li>3M</li><li>Honeywell</li><li>Ansell</li></ul></div>",
+      "css": ".ds-tag { position: relative; display: grid; gap: 0.9rem; max-width: 22rem; margin: 1.5rem; padding: 3.4rem 1.8rem 2rem; background: #fbfaf6; color: #1f1a17; clip-path: polygon(1.6rem 0, calc(100% - 1.6rem) 0, 100% 1.6rem, 100% 100%, 0 100%, 0 1.6rem); filter: drop-shadow(0 10px 16px rgb(8 14 26 / 0.35)); transform: rotate(-1.4deg); } .ds-tag-hole { position: absolute; top: 1.1rem; left: 50%; width: 1.1rem; height: 1.1rem; margin-left: -0.55rem; border-radius: 50%; background: #29466b; box-shadow: 0 0 0 4px #e3ddd0, inset 0 1px 2px rgb(0 0 0 / 0.5); } .ds-tag h3 { margin: 0; color: #14243a; font: 700 1.9rem/0.98 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; text-transform: uppercase; } .ds-tag p { margin: 0; color: #4a4039; font: 400 0.9375rem/1.5 Barlow, \"Segoe UI\", Roboto, sans-serif; } .ds-tag ul { display: flex; flex-wrap: wrap; gap: 0.4rem 0.5rem; margin: 0; padding: 0; list-style: none; } .ds-tag li { padding: 0.35rem 0.7rem 0.3rem; border: 1px solid rgb(31 26 23 / 0.35); background: #fff; font: 600 0.95rem/1.1 \"Barlow Condensed\", \"Arial Narrow\", sans-serif; letter-spacing: 0.04em; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "La colcha de dotación",
+    "overview": "La página es una colcha hecha con retazos de las telas que Olímpicas Sport confecciona: dril índigo, chambray, camisería a rayas, negro y crudo. Cada bloque de contenido es una pieza de tela con textura tejida, separada de sus vecinas por una holgura mínima que deja ver el suelo índigo de sarga, y cosida por dentro con un pespunte rojo discontinuo, el rojo del logotipo. Las piezas son desiguales a propósito: la retícula de 12 columnas se reparte en anchos distintos en cada sección para que la colcha nunca se lea como una fila de tarjetas iguales.\n\nEl sistema distingue materialmente lo que la empresa fabrica de lo que suministra. Lo fabricado va cosido a la colcha (pieza con pespunte); el EPP suministrado va prendido con una etiqueta de cartón con ojal, girada sobre su foto, sin costura. Las fotos son retazos dentro de la colcha y llevan etiquetas de tela cosidas como pie. La densidad es de cartel: titulares en bloque condensado en mayúsculas, lectura en Barlow de texto corrido, y mucho aire dentro de cada pieza.\n\nEl movimiento tiene un solo gesto: «se cose al llegar». Al entrar en pantalla, el pespunte de cada pieza se dibuja en orden alrededor del borde y la pieza asienta su sombra. Con movimiento reducido el pespunte aparece completo y estático. Se rechaza el hero azul corporativo a sangre con fila de tarjetas iguales.",
+    "keyCharacteristics": [
+      "Piezas de tela de esquina recta con textura tejida mezclada en `soft-light`.",
+      "Pespunte rojo discontinuo (9px de puntada cada 15px) a 9px del borde de cada pieza.",
+      "Holgura de 5px entre piezas sobre un suelo índigo de sarga.",
+      "Barlow Condensed en mayúsculas de bloque para titulares, etiquetas y botones; Barlow para leer.",
+      "Amarillo del logotipo reservado para foco, selección y pestaña activa.",
+      "Lo fabricado se cose; el EPP se prende con etiqueta de suministro."
+    ],
+    "rules": [
+      {
+        "name": "La regla del hilo rojo",
+        "body": "El rojo es hilo y acción: pespuntes, subrayados de puntada, divisorias discontinuas y el botón principal. Solo una pieza por sección puede ser de tela roja, y sobre ella el hilo cambia a crudo.",
+        "section": "colors"
+      },
+      {
+        "name": "La regla del amarillo de guardia",
+        "body": "El amarillo solo aparece cuando algo está activo o enfocado (foco, selección, pestaña activa, enlace de salto). Nunca decora.",
+        "section": "colors"
+      },
+      {
+        "name": "La regla del bloque",
+        "body": "Barlow Condensed va siempre en mayúsculas y solo en titulares, etiquetas, botones y cifras; el texto que se lee de corrido es Barlow en caja normal.",
+        "section": "typography"
+      },
+      {
+        "name": "La regla de la cifra tabular",
+        "body": "Los años y números de paso usan `font-variant-numeric: tabular-nums` en condensada 700.",
+        "section": "typography"
+      },
+      {
+        "name": "La regla de tela sobre tela",
+        "body": "Una pieza tiene una sola sombra, corta y hacia abajo. Solo la etiqueta del EPP, que no está cosida, se gira y cuelga con sombra proyectada.",
+        "section": "elevation"
+      },
+      {
+        "name": "La regla del canto recto",
+        "body": "La tela no se redondea. Si una forma no es rectangular, debe ser un objeto real del taller: canto dentado, etiqueta de cartón, etiqueta tejida o botón de costura.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** construir cada bloque nuevo como pieza de tela: textura tejida en `soft-light`, sombra de pieza y pespunte interior a 9px del canto.",
+      "**Do** separar piezas vecinas solo con la holgura de 5px que deja ver el suelo índigo.",
+      "**Do** repartir anchos desiguales en la retícula de 12 columnas para cada sección.",
+      "**Do** cambiar el hilo a crudo sobre la pieza roja y sobre las fotos.",
+      "**Do** coser las fotos como retazos con etiqueta cosida como pie.",
+      "**Do** mantener el pespunte completo y estático con movimiento reducido."
+    ],
+    "donts": [
+      "**Don't** redondear las esquinas de piezas, botones, pestañas o etiquetas.",
+      "**Don't** coser el EPP suministrado: va prendido con etiqueta de cartón.",
+      "**Don't** usar el amarillo como decoración ni como fondo de pieza.",
+      "**Don't** unir telas con líneas continuas; las líneas sólidas pertenecen solo al cartón de la etiqueta de suministro y a sus fichas de marca.",
+      "**Don't** poner texto de lectura directamente sobre las rayas de camisería.",
+      "**Don't** componer filas de piezas idénticas ni un hero azul corporativo a sangre.",
+      "**Don't** redibujar el logotipo; se usa el archivo oficial."
+    ]
+  }
+}

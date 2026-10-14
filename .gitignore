@@ -1,0 +1,12 @@
+# Artefactos locales del proceso de diseño (capturas y referencias)
+.impeccable/review/
+.impeccable/ref/
+.impeccable/questions/
+.impeccable/build/
+.impeccable/mocks/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
